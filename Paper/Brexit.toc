@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}UK's Economic Status}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Yield}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}P/E Ratio}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}Impact on US economy}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Variability in Exchange Rates}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Correlation of Growth Rates}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Correlation of Yield Curve Slopes}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Trade}{6}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Labor Mobility and Foreign-held Securities}{7}{subsection.3.5}
+\contentsline {section}{\numberline {4}VAR Model}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Structure}{8}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Identifying Shocks}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Full Models}{9}{subsection.4.3}
+\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}
