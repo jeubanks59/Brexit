@@ -1,0 +1,49 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Begg and Mush{\"o}vel(2016)]{begg:2016}
+Iain Begg and Fabian Mush{\"o}vel.
+\newblock The economic impact of brexit: jobs, growth and the public finances.
+\newblock \emph{The London School of Economics and Political Science, European
+  Institute}, 2016.
+
+\bibitem[Corsetti and M{\"u}eller(2016)]{corsmuel:2016}
+Giancarlo Corsetti and Gernot M{\"u}eller.
+\newblock The pound and the macroeconomic effects of brexit.
+\newblock \emph{VOX}, 2016.
+
+\bibitem[Dhingra et~al.(2016)Dhingra, Ottaviano, Sampson, and
+  Reenen]{dhinetal:2016}
+Swati Dhingra, Gianmarco~IP Ottaviano, Thomas Sampson, and John~Van Reenen.
+\newblock The consequences of brexit for uk trade and living standards.
+\newblock \emph{London School of Economics and Political Science, CEP}, 2016.
+
+\bibitem[H{\'e}ricourt and Poncet(2015)]{heriponc:2015}
+J{\'e}r{\^o}me H{\'e}ricourt and Sandra Poncet.
+\newblock Exchange rate volatility, financial constraints, and trade: empirical
+  evidence from chinese firms.
+\newblock \emph{The World Bank Economic Review}, 29\penalty0 (3):\penalty0
+  550--578, 2015.
+
+\bibitem[Krugman(2014)]{krugman:2014}
+Paul Krugman.
+\newblock Currency regimes, capital flows, and crises.
+\newblock \emph{IMF Economic Review}, 62\penalty0 (4):\penalty0 470--493, 2014.
+
+\bibitem[Loretan(2005)]{loretan:2005}
+Mico Loretan.
+\newblock Indexes of the foriegn exchange value of the dollar.
+\newblock \emph{Fed. Res. Bull.}, 91:\penalty0 1, 2005.
+
+\bibitem[Oliver and Williams(2016)]{olivwill:2016}
+Tim Oliver and Michael~John Williams.
+\newblock Special relationships in flux: Brexit and the future of the us--eu
+  and us--uk relationships.
+\newblock \emph{International Affairs}, 92\penalty0 (3):\penalty0 547--567,
+  2016.
+
+\end{thebibliography}
